@@ -1,0 +1,9 @@
+com\test\app\ExampleTest.class
+com\test\app\TextAnnotationBody.class
+com\test\app\XSDToJavaClasses.class
+com\test\complete\CompleteExampleAnnotation.class
+com\test\app\CompJSONLD.class
+com\test\app\TestingChoice.class
+com\test\complete\MainAppRunner.class
+com\test\app\JsonLDToRdf.class
+com\test\app\MainApp.class

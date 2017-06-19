@@ -1,0 +1,12 @@
+org\kit\utility\ArangoDBUtil.class
+org\kit\pojo\ProcessorInOutMap.class
+org\kit\mainapp\ScuflToProv.class
+org\kit\utility\SegrigaterUtility.class
+org\kit\mainapp\MomlToProv2.class
+org\kit\pojo\arangodb\WorkFlowDoc.class
+org\kit\mainapp\AppRunner.class
+org\kit\mainapp\ScuflToProv2.class
+org\kit\rdf\RDFUtility.class
+org\kit\mainapp\MomlToProv.class
+org\kit\pojo\arangodb\ProcessorDoc.class
+org\kit\pojo\arangodb\ProcessorInOutMapArango.class

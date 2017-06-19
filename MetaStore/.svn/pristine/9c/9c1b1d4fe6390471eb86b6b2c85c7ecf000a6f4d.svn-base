@@ -1,0 +1,8 @@
+arangoIP=localhost:8529
+arangoPort=8529
+arangoDbName=ProvenanceNewGraph
+collections=metsXmlRegistry
+username=root
+password=
+
+
