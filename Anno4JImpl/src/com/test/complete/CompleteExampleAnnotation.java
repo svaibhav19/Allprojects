@@ -13,16 +13,13 @@ import com.github.anno4j.model.Annotation;
 import com.github.anno4j.model.Body;
 import com.github.anno4j.model.Motivation;
 import com.github.anno4j.model.MotivationFactory;
-import com.github.anno4j.model.Selector;
 import com.github.anno4j.model.State;
 import com.github.anno4j.model.Style;
-import com.github.anno4j.model.Target;
 import com.github.anno4j.model.impl.ResourceObject;
 import com.github.anno4j.model.impl.agent.Person;
 import com.github.anno4j.model.impl.agent.Software;
 import com.github.anno4j.model.impl.body.TextualBody;
 import com.github.anno4j.model.impl.multiplicity.Choice;
-import com.github.anno4j.model.impl.multiplicity.ChoiceSupport;
 import com.github.anno4j.model.impl.state.HttpRequestState;
 import com.github.anno4j.model.impl.targets.SpecificResource;
 

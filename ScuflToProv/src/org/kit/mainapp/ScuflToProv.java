@@ -68,7 +68,15 @@ public class ScuflToProv {
 			}
 		}
 
-		File file = new File("C:/Users/VB/Desktop/SCUFLNew.rdf");
+		File file = new File("C:/Users/Vaibhav/Desktop/SCUFLNew.rdf");
+		if(!file.exists()){
+			try {
+				file.createNewFile();
+			} catch (IOException e1) {
+				e1.printStackTrace();
+			}
+		}
+		
 		try {
 			rdfUtility.getModel().write(new FileWriter(file));
 		} catch (IOException e) {
